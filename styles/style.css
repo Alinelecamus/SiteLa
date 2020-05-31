@@ -1,0 +1,107 @@
+body{
+	background:linear-gradient(#00A896,#05668D,#F0F3BD);
+}
+
+h1{
+	font-family: Code light;
+	font-size: 5em;
+	text-align: left;
+	color: white;
+	margin-left: 50px;
+	border: 1px solid white;
+	display: inline-block;
+	padding: 10px;
+	
+}
+
+h2{
+	font-family: 'Code light';
+	font-size: 50px;
+	color: white;
+	margin-left: 50px;
+	margin-top: 3em;
+	border: 1px solid white;
+	border-right: 30em;
+	border-left: 30em;
+	padding: 10px;
+}
+
+div{
+	background-color: white;
+	width: 80em;
+	margin-left: 100px;
+	text-align: center;
+	alignment-baseline: center;
+	padding: 15px;
+}
+
+p{
+	font-family: 'Poiret One', cursive;
+	font-size: 30px;
+	color: black;
+}
+
+img{
+	width: 20em;
+	border: 1px solid black;
+
+}
+
+#me2{
+
+	margin-left: 42em;
+	width: 50em;
+	margin-top: -150px;
+	position: unset;
+	margin-bottom: 1em;
+}
+
+figcaption{
+	
+	font-family: 'Poiret One', cursive;
+	color: black;
+}
+
+h3{
+	font-family: 'Code light';
+	font-size: 35px;
+	color: white;
+	margin-left: 50px;
+	margin-top: -30px;
+	
+}
+
+ul{
+	font-family: Code light;
+	font-size: 25px;
+	background:linear-gradient(#00A896,#F0F3BD);
+	width: 600px;
+	height: 100;
+	margin: 100px auto 4px;
+	text-align: center;
+	border: 1px solid white;
+}
+
+a: hover{
+	background-color: black;
+	color: white;
+}
+
+li{
+	border: 1px solid white;
+	font-size: 1.6em;
+	display: inline-block;
+	margin: 28px;
+	padding: 5px;
+
+}
+
+li;hover {
+	background-color: white;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	border: 1px; 
+}
+
+
